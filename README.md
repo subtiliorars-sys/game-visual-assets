@@ -1,12 +1,12 @@
-# game-visual-assets
+﻿# game-visual-assets
 
 House library of **free / CC0-redistributable visual game assets** for
-JimmyTheHat / subtiliorars-sys games (Ninefold, PixelSports, Cetacea, Warp Monkeys, …).
+JimmyTheHat / subtiliorars-sys games (Ninefold, PixelSports, Cetacea, Warp Monkeys, â€¦).
 
 > **Not** brand vaults. For product-specific brand media see
 > `MeniscusMaximus---Media` and `Ilerioluwa-Media` (private, restricted).
 
-## What’s in here
+## Whatâ€™s in here
 
 | Path | Contents |
 |------|----------|
@@ -21,7 +21,7 @@ JimmyTheHat / subtiliorars-sys games (Ninefold, PixelSports, Cetacea, Warp Monke
    dedication that **allows commercial redistribution**.
 2. Keep an **ATTRIBUTION.md** row for every vendor pack even when attribution
    is optional (good manners + audit trail).
-3. Never copy Zelda / Pokémon / Academy (“Guardian of Goal”) / commercial
+3. Never copy Zelda / PokÃ©mon / Academy (â€œGuardian of Goalâ€) / commercial
    soundtrack assets.
 4. Prefer Kenney, OpenGameArt CC0 filters, and in-house procedurals.
 
@@ -32,17 +32,20 @@ git clone https://github.com/subtiliorars-sys/game-visual-assets.git
 # copy what you need into your game's public/assets (do not npm-link whole repo)
 ```
 
-Example mapping for games that look “too basic” today (procedural rectangles):
+Example mapping for games that look â€œtoo basicâ€ today (procedural rectangles):
 
 | Game | Suggested vendor packs |
 |------|------------------------|
 | Ninefold | `vendor/kenney/pixel-platformer`, `new-platformer-pack` |
 | PixelSports / Bocce / Volleyball | `vendor/kenney/sports-pack` |
-| Space / Warp Monkeys | catalog → Kenney space shooter / modular space (fetch later) |
+| Space / Warp Monkeys | catalog â†’ Kenney space shooter / modular space (fetch later) |
 
 ## Status
 
-Expanded seed: 2026-07-13 — **28** Kenney CC0 packs + house brand stubs.
-Audio: [`game-audio-assets`](https://github.com/subtiliorars-sys/game-audio-assets).
-3D: [`game-3d-assets`](https://github.com/subtiliorars-sys/game-3d-assets).
-Gaps / commission backlog: [`catalog/GAPS.md`](catalog/GAPS.md).
+Deep scrape 2026-07-13:
+- **43** Kenney CC0 packs
+- **40** ambientCG PBR materials (1K) under `vendor/ambientcg/`
+- **25** Poly Haven textures (1K) under `vendor/polyhaven/`
+
+See `catalog/TEXTURE_SCRAPE.md` to pull more legally. Gaps: `catalog/GAPS.md`.
+Audio: game-audio-assets · 3D kits: game-3d-assets.
