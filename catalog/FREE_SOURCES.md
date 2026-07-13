@@ -9,9 +9,14 @@ license on the source page.
 | Source | Notes | Suggest for |
 |--------|-------|-------------|
 | [Kenney.nl](https://kenney.nl/assets) | Huge coherent 2D/3D/UI library | All house games |
+| [ambientCG](https://ambientcg.com) | 2000+ PBR materials — **mirrored slice** in `vendor/ambientcg/` | Floors/walls/grounds |
+| [Poly Haven Textures](https://polyhaven.com/textures) | 700+ CC0 textures — **mirrored slice** in `vendor/polyhaven/` | Environment maps |
 | [OpenGameArt — CC0 filter](https://opengameart.org/art-search-advanced?keys=&field_art_type_tid%5B%5D=9&sort_by=count&sort_order=DESC&field_art_licenses_tid%5B%5D=2) | Filter **CC0** only | Niche fillers |
 | [Lospec](https://lospec.com/palette-list) | Palettes (check each license) | Pixel palette picks |
-| [Craftpix freebies](https://craftpix.net/freebies/) | Mixed licenses — **read each** | Only if CC0/free for commercial |
+| [Quaternius](https://quaternius.com) | Often CC0 — confirm each pack | Extra 3D kits |
+
+See `TEXTURE_SCRAPE.md` for fetch scripts.
+
 
 ## Next packs to fetch (Kenney)
 
