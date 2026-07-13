@@ -15,14 +15,15 @@ license on the source page.
 
 ## Next packs to fetch (Kenney)
 
+Bulk-fetch already seeded most of these. Remaining candidates (confirm page exists):
+
 | Pack | URL slug | Fits |
 |------|----------|------|
-| Pixel UI Pack | `pixel-ui-pack` | Menus |
-| Input Prompts | `input-prompts` | Controller glyphs |
-| Roguelike/RPG pack | `roguelike-rpg-pack` | Ninefold interiors |
-| Space Shooter Redux | `space-shooter-redux` | Warp Monkeys / Space Dandy |
-| Abstract Platformer | `abstract-platformer` | Prototypes |
-| Particle Pack | `particle-pack` | FX |
+| New Food expansions | search kenney.nl | men-eat-pb |
+| Additional cursor sets | `new-cursors` etc. | UI polish |
+
+See `GAPS.md` for what we will **not** take from free sources (brand, whale recordings, OSTs).
+
 
 ## Do not vendor
 

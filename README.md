@@ -42,6 +42,7 @@ Example mapping for games that look “too basic” today (procedural rectangles
 
 ## Status
 
-Initial seed: 2026-07-13 — Kenney packs + original tile starter + catalog.
-Audio lives in sibling repo: [`game-audio-assets`](https://github.com/subtiliorars-sys/game-audio-assets).
-3D kits live in: [`game-3d-assets`](https://github.com/subtiliorars-sys/game-3d-assets).
+Expanded seed: 2026-07-13 — **28** Kenney CC0 packs + house brand stubs.
+Audio: [`game-audio-assets`](https://github.com/subtiliorars-sys/game-audio-assets).
+3D: [`game-3d-assets`](https://github.com/subtiliorars-sys/game-3d-assets).
+Gaps / commission backlog: [`catalog/GAPS.md`](catalog/GAPS.md).

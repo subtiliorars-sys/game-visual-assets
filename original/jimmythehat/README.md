@@ -1,11 +1,16 @@
-# Original JimmyTheHat starter tiles
+# House originals — jimmythehat
 
-Small original placeholders (house-owned). Replace with Kenney vendor packs
-or commissioned art as games mature. Generated 2026-07-13.
+Brand and gap fillers that **cannot** be honest Kenney stand-ins.
+See `../../catalog/GAPS.md`.
 
-| File | Use |
-|------|-----|
-| tile_*_16.png | Terrain starters |
-| actor_hero_32.png | Temp player |
-| ui_panel_64.png | Dialog / HUD chrome |
-| fx_sparkle_strip.png | 4-frame sparkle |
+## Brand
+- `brand_jimmy_hat_64.png` — mascot hat mark
+- `brand_ninefold_petal_32.png` — Ninefold motif stub
+- `brand_whale_mark_64.png` — WhiteWhale / Cetacea mark
+
+## Props / UI
+- `prop_dorodango_32.png`, `prop_bocce_ball_24.png`, `prop_bocce_jack_16.png`
+- `ui_yesman_check_32.png`
+- Prior tiles / hero / sparkle / panel remain
+
+Reusable across house games; name/story IP stays with subtiliorars-sys.
