@@ -49,3 +49,8 @@ Deep scrape 2026-07-13:
 
 See `catalog/TEXTURE_SCRAPE.md` to pull more legally. Gaps: `catalog/GAPS.md`.
 Audio: game-audio-assets · 3D kits: game-3d-assets.
+
+## Textures (go-big)
+
+PBR / environment maps: [`game-texture-assets`](https://github.com/subtiliorars-sys/game-texture-assets) (~1585 ambientCG + 780 Poly Haven @ 1K). Release: [gobig-2026-07-13](https://github.com/subtiliorars-sys/game-texture-assets/releases/tag/gobig-2026-07-13).
+
